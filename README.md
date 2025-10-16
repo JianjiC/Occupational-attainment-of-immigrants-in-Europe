@@ -7,7 +7,7 @@ Dear friend, thank you for your interest in this project! Please feel free to re
 
 This project does data analysis on decent job opportunities for immigrants in European countries.
 
-Please note that this is an onging project and futher work and improvment may be updated in the future.
+Please note that this is an onging project and further work and improvment may be updated in the future.
 
 In this repository you will find the following documents:
 1. In the PDF file "Report_ES_Are “Decent” Jobs Accessible to Immigrants", you will find a brief report written in Spainsh for the ideas and key results of this study.
